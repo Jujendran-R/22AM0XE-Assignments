@@ -47,7 +47,10 @@
 ***
 
 #### #4 [K8s] Write a manifest for hello-world pod and deploy the same in the namespace of your registration number
-> Add your answer here!
+> ![Screenshot 2024-10-20 143932](https://github.com/user-attachments/assets/98b52192-892a-4757-9eb4-3134b09b33e3)
+> ![Screenshot 2024-10-20 152029](https://github.com/user-attachments/assets/4a50968a-95ad-43ec-a487-f00614af1622)
+
+
 
 ***
 
