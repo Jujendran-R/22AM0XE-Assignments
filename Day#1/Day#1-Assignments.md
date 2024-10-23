@@ -1,4 +1,4 @@
-### Day 1 Assignments
+![Screenshot 2024-10-23 111323](https://github.com/user-attachments/assets/7377c35f-c6bd-433f-a497-4e4858538650)### Day 1 Assignments
 
 > [!NOTE]
 > Pls edit this table while submitting the assignments
@@ -62,7 +62,12 @@
 ***
 
 #### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+> ![Screenshot 2024-10-23 111323](https://github.com/user-attachments/assets/82530e5c-e8ed-4d39-868b-320ac553339c)
+> ![Screenshot 2024-10-23 111440](https://github.com/user-attachments/assets/41d71aea-6280-44e5-96f4-900f007633f0)
+> ![Screenshot 2024-10-23 111553](https://github.com/user-attachments/assets/b0e9ba07-3ff0-4198-bcbb-3f00600bf29f)
+
+
+
 
 ***
 
