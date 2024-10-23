@@ -80,6 +80,6 @@
 ***
 
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
-> Add your answer here!
+> ![Screenshot 2024-10-23 114412](https://github.com/user-attachments/assets/e49c8709-2cdd-42b3-8c2a-7c728a21ae0b)
 
 ***
